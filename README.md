@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Briana! 🤖</h1>
-<p align="center">🎓 Robotics enthusiast | 🇷🇴 Member of Romania’s National Robotics Team | 💻 Programmer for 2+ years</p>
+<h1>Bună, sunt Briana! 🤖</h1>
+<p>🎓 Pasionată de robotică | Membră a Echipei Naționale de Robotică | 💻 Programez de peste 2 ani</p>
 
 ---
 
