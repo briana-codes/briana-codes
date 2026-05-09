@@ -1,5 +1,5 @@
 <h1>Bună, sunt Briana! 🤖</h1>
-<p>🎓 Pasionată de robotică | Membră a Echipei Naționale de Robotică | 💻 Programez de peste 2 ani</p>
+<p>🎓 Pasionată de robotică | Membră a Echipei Naționale de Robotică | 💻 Programez de peste 5 ani</p>
 
 ---
 
@@ -16,16 +16,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/briana-musat-9b7795295/)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=briana-codes&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briana-codes&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
 
 ## 🌱 În prezent
 
