@@ -109,5 +109,5 @@ I'm a first-year **Economic Informatics** student at the **Academy of Economic S
 
 
 <p align="center">
-  <i>"The only way to do great work is to love what you do."</i>
+  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
 </p>
