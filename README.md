@@ -93,7 +93,7 @@ I'm a first-year **Economic Informatics** student at the **Academy of Economic S
 - **Regional Pitch Event** — Filming & organization volunteer
 
 ---
-![Metrics](github-metrics.svg)
+
 ## 📊 GitHub Stats
 
 <!-- Grafic de activitate (contribuții zilnice) -->
