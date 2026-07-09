@@ -61,10 +61,6 @@ I'm a first-year **Economic Informatics** student at the **Academy of Economic S
 
 ### 🤖 AutoVortex — VEX High Stakes Robot (C++)
 > C++ codebase for a VEX High Stakes robot featuring advanced algorithms for autonomous precision and responsive driver control. Optimized pathing, smart decision logic, and competitive performance in a modular design.
-
-### 🎮 Stack O Bot — Unreal Engine 5
-> Beginner exploration of Unreal Engine 5 Blueprints, implementing core game mechanics and learning visual scripting fundamentals.
-
 ---
 
 ## 🏆 Competitions & Achievements
