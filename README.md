@@ -61,6 +61,8 @@ I'm a first-year **Economic Informatics** student at the **Academy of Economic S
 
 ### 🤖 AutoVortex — VEX High Stakes Robot (C++)
 > C++ codebase for a VEX High Stakes robot featuring advanced algorithms for autonomous precision and responsive driver control. Optimized pathing, smart decision logic, and competitive performance in a modular design.
+
+
 ---
 
 ## 🏆 Competitions & Achievements
@@ -94,11 +96,12 @@ I'm a first-year **Economic Informatics** student at the **Academy of Economic S
 
 ## 📊 GitHub Stats
 
+<!-- Grafic de activitate (contribuții zilnice) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=briana-codes&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briana-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=briana-codes&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
+<!-- Streak de contribuții zilnice -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=briana-codes&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
