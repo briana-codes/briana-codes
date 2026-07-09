@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Briana-Alexia 👋</h1>
+<h1 align="center">Hi, I'm Briana👋</h1>
 
 <p align="center">
   <b>Economic Informatics Student @ ASE Bucharest</b> <br>
@@ -9,13 +9,14 @@
   <a href="mailto:brianamusat23@gmail.com">
     <img src="https://img.shields.io/badge/Email-brianamusat23%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/<!-- YOUR_USERNAME -->">
-    <img src="https://img.shields.io/badge/GitHub-<!-- YOUR_USERNAME -->-181717?style=flat&logo=github&logoColor=white"/>
+  <a href="https://github.com/briana-codes">
+    <img src="https://img.shields.io/badge/GitHub-briana--codes-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <!-- Add LinkedIn badge below if you have one -->
-  <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <!-- Decomentează dacă ai LinkedIn:
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a> -->
+  </a>
+  -->
 </p>
 
 ---
@@ -61,18 +62,8 @@ I'm a first-year **Economic Informatics** student at the **Academy of Economic S
 ### 🤖 AutoVortex — VEX High Stakes Robot (C++)
 > C++ codebase for a VEX High Stakes robot featuring advanced algorithms for autonomous precision and responsive driver control. Optimized pathing, smart decision logic, and competitive performance in a modular design.
 
-<!-- Add link to your repo: [View Repository](https://github.com/YOUR_USERNAME/REPO_NAME) -->
-
----
-
 ### 🎮 Stack O Bot — Unreal Engine 5
 > Beginner exploration of Unreal Engine 5 Blueprints, implementing core game mechanics and learning visual scripting fundamentals.
-
-<!-- Add link to your repo: [View Repository](https://github.com/YOUR_USERNAME/REPO_NAME) -->
-
----
-
-<!-- Add more projects here as you build them! -->
 
 ---
 
@@ -89,10 +80,10 @@ I'm a first-year **Economic Informatics** student at the **Academy of Economic S
 
 ## 🎓 Education
 
-**Academy of Economic Studies (ASE)** — Bucharest, Romania  
+**Academy of Economic Studies (ASE)** — Bucharest, Romania
 📘 B.Sc. in Economic Informatics, Faculty of Cybernetics, Statistics and Economic Informatics *(2025 – present)*
 
-**"George Coșbuc" National Bilingual College** — Bucharest, Romania  
+**"George Coșbuc" National Bilingual College** — Bucharest, Romania
 📗 Mathematics-Informatics profile, Bilingual English *(2021 – 2025)*
 
 ---
@@ -107,15 +98,16 @@ I'm a first-year **Economic Informatics** student at the **Academy of Economic S
 
 ## 📊 GitHub Stats
 
-<!-- After setting up lowlighter/metrics GitHub Action, replace the placeholder below -->
-<!-- ![Metrics](github-metrics.svg) -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<!-- YOUR_USERNAME -->&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<!-- YOUR_USERNAME -->&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=briana-codes&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briana-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=briana-codes&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+
 
 <p align="center">
   <i>"The only way to do great work is to love what you do."</i>
